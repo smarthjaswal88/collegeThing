@@ -1,0 +1,11 @@
+.homeScreen {
+  font-family: "Arial", sans-serif;
+  background-image: url("../public/new-york-city-manhattan-midtown-dusk.jpg"); 
+}
+
+.imageFile {
+  background-image: url("../public/8a18f2c8-0225-40e3-824a-796efe37d4fa.jpeg"); 
+  background-size: cover; 
+  background-position: center; 
+  border-radius: 20px;
+}
